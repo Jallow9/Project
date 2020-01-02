@@ -1,6 +1,6 @@
 # Learn By Example!
 
-While the Project module is the final phase of your HackYourFuture journey, it doesn't mean it's going to be easy. If anything, you might be feeling frustrated right now!
+While the Project module is the final phase of your journey, it doesn't mean it's going to be easy. If anything, you might be feeling frustrated right now!
 
 If you feel scared for what's to come: don't worry! Others have gone before you and came out on top.
 
