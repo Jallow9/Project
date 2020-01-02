@@ -1,3 +1,3 @@
 ## Post Graduation
 
-Congratulations with gradution from the HackYourFuture program!
+Congratulations for gradution from the Social Hackers Aacademy program!
